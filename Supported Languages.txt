@@ -1,0 +1,2 @@
+Supported Languages:
+Python, JavaScript, TypeScript, HTML, CSS, C, C++, Java, C#, Go, Rust, PHP, Ruby, Swift, Kotlin, SQL, XML, YAML, JSON, Shell, Perl, Lua, R, Dart, Markdown.
